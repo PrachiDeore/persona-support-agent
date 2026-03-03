@@ -6,7 +6,11 @@ scikit-learn
 joblib
 fastapi
 
-
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
 uvicorn
 
 scikit-learn
