@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+textblob
+python-multipart
+scikit-learn
+joblib
+fastapi
+
+uvicorn
+
+scikit-learn
+
+joblib
+
+textblob
+
+pydantic

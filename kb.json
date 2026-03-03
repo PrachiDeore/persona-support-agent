@@ -1,0 +1,14 @@
+{
+  "technical": {
+    "authentication": "Please verify your API key, check token expiration, and ensure correct environment configuration.",
+    "server": "Check server logs and validate deployment settings.",
+    "cloud": "Review cloud resource allocation and billing dashboard."
+  },
+  "frustrated": {
+    "general": "I sincerely apologize for the inconvenience. Let me resolve this for you immediately."
+  },
+  "executive": {
+    "pricing": "We offer flexible enterprise pricing plans. I can connect you with our sales team for a tailored quote.",
+    "budget": "We provide scalable pricing options optimized for business budget planning."
+  }
+}
