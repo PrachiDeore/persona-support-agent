@@ -5,6 +5,7 @@ python-multipart
 scikit-learn
 joblib
 fastapi
+streamlit
 
 uvicorn
 
